@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1059327290236",
+    "firebase_url": "https://multiplatform-c31e0-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "multiplatform-c31e0",
+    "storage_bucket": "multiplatform-c31e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059327290236:android:31983468420d28c7e452f9",
+        "android_client_info": {
+          "package_name": "com.facebook.react.rootproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoWMN2c1RUTg2w8l6gxqVZDDIT2adty2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059327290236:android:2e07dee96e100b0de452f9",
+        "android_client_info": {
+          "package_name": "com.midexam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoWMN2c1RUTg2w8l6gxqVZDDIT2adty2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
